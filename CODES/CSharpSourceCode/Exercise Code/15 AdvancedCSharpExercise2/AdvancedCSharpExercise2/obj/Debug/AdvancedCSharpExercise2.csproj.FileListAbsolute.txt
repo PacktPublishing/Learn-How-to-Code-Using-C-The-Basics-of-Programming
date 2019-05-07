@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Exercise Code\AdvancedCSharpExercise2\AdvancedCSharpExercise2\bin\Debug\AdvancedCSharpExercise2.exe.config
+C:\Users\David\Desktop\C# Course\Exercise Code\AdvancedCSharpExercise2\AdvancedCSharpExercise2\bin\Debug\AdvancedCSharpExercise2.exe
+C:\Users\David\Desktop\C# Course\Exercise Code\AdvancedCSharpExercise2\AdvancedCSharpExercise2\bin\Debug\AdvancedCSharpExercise2.pdb
+C:\Users\David\Desktop\C# Course\Exercise Code\AdvancedCSharpExercise2\AdvancedCSharpExercise2\obj\Debug\AdvancedCSharpExercise2.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Exercise Code\AdvancedCSharpExercise2\AdvancedCSharpExercise2\obj\Debug\AdvancedCSharpExercise2.exe
+C:\Users\David\Desktop\C# Course\Exercise Code\AdvancedCSharpExercise2\AdvancedCSharpExercise2\obj\Debug\AdvancedCSharpExercise2.pdb

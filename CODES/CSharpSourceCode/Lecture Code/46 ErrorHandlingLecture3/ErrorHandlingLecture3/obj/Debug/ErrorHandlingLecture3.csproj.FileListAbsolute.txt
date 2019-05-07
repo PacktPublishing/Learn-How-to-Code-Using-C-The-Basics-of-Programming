@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\ErrorHandlingLecture3\ErrorHandlingLecture3\bin\Debug\ErrorHandlingLecture3.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\ErrorHandlingLecture3\ErrorHandlingLecture3\bin\Debug\ErrorHandlingLecture3.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\ErrorHandlingLecture3\ErrorHandlingLecture3\bin\Debug\ErrorHandlingLecture3.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\ErrorHandlingLecture3\ErrorHandlingLecture3\obj\Debug\ErrorHandlingLecture3.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\ErrorHandlingLecture3\ErrorHandlingLecture3\obj\Debug\ErrorHandlingLecture3.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\ErrorHandlingLecture3\ErrorHandlingLecture3\obj\Debug\ErrorHandlingLecture3.pdb

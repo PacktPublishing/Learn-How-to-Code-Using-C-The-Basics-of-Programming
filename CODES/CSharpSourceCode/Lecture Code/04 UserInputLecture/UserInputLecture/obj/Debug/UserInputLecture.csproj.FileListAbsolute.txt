@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\UserInputLecture\UserInputLecture\bin\Debug\UserInputLecture.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\UserInputLecture\UserInputLecture\bin\Debug\UserInputLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\UserInputLecture\UserInputLecture\bin\Debug\UserInputLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\UserInputLecture\UserInputLecture\obj\Debug\UserInputLecture.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\UserInputLecture\UserInputLecture\obj\Debug\UserInputLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\UserInputLecture\UserInputLecture\obj\Debug\UserInputLecture.pdb

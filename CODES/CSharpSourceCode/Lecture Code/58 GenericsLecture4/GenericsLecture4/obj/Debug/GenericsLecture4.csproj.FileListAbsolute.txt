@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\GenericsLecture4\GenericsLecture4\bin\Debug\GenericsLecture4.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\GenericsLecture4\GenericsLecture4\bin\Debug\GenericsLecture4.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\GenericsLecture4\GenericsLecture4\bin\Debug\GenericsLecture4.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\GenericsLecture4\GenericsLecture4\obj\Debug\GenericsLecture4.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\GenericsLecture4\GenericsLecture4\obj\Debug\GenericsLecture4.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\GenericsLecture4\GenericsLecture4\obj\Debug\GenericsLecture4.pdb

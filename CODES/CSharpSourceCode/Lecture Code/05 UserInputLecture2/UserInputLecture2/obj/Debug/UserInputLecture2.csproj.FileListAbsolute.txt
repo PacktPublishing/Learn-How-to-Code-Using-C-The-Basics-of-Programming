@@ -1,0 +1,11 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\UserInputLecture2\UserInputLecture2\bin\Debug\UserInputLecture2.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\UserInputLecture2\UserInputLecture2\bin\Debug\UserInputLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\UserInputLecture2\UserInputLecture2\bin\Debug\UserInputLecture2.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\UserInputLecture2\UserInputLecture2\obj\Debug\UserInputLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\UserInputLecture2\UserInputLecture2\obj\Debug\UserInputLecture2.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\05 UserInputLecture2\UserInputLecture2\bin\Debug\UserInputLecture2.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\05 UserInputLecture2\UserInputLecture2\bin\Debug\UserInputLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\05 UserInputLecture2\UserInputLecture2\bin\Debug\UserInputLecture2.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\05 UserInputLecture2\UserInputLecture2\obj\Debug\UserInputLecture2.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\05 UserInputLecture2\UserInputLecture2\obj\Debug\UserInputLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\05 UserInputLecture2\UserInputLecture2\obj\Debug\UserInputLecture2.pdb

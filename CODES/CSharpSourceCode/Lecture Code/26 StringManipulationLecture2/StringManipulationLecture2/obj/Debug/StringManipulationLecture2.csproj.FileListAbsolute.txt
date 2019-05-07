@@ -1,0 +1,5 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\StringManipulationLecture2\StringManipulationLecture2\bin\Debug\StringManipulationLecture2.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\StringManipulationLecture2\StringManipulationLecture2\bin\Debug\StringManipulationLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\StringManipulationLecture2\StringManipulationLecture2\bin\Debug\StringManipulationLecture2.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\StringManipulationLecture2\StringManipulationLecture2\obj\Debug\StringManipulationLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\StringManipulationLecture2\StringManipulationLecture2\obj\Debug\StringManipulationLecture2.pdb

@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\BooleanLogicLecture2\BooleanLogicLecture2\bin\Debug\BooleanLogicLecture2.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\BooleanLogicLecture2\BooleanLogicLecture2\bin\Debug\BooleanLogicLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\BooleanLogicLecture2\BooleanLogicLecture2\bin\Debug\BooleanLogicLecture2.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\BooleanLogicLecture2\BooleanLogicLecture2\obj\Debug\BooleanLogicLecture2.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\BooleanLogicLecture2\BooleanLogicLecture2\obj\Debug\BooleanLogicLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\BooleanLogicLecture2\BooleanLogicLecture2\obj\Debug\BooleanLogicLecture2.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\08 BooleanLogicLecture2\BooleanLogicLecture2\bin\Debug\BooleanLogicLecture2.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\08 BooleanLogicLecture2\BooleanLogicLecture2\bin\Debug\BooleanLogicLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\08 BooleanLogicLecture2\BooleanLogicLecture2\bin\Debug\BooleanLogicLecture2.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\08 BooleanLogicLecture2\BooleanLogicLecture2\obj\Debug\BooleanLogicLecture2.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\08 BooleanLogicLecture2\BooleanLogicLecture2\obj\Debug\BooleanLogicLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\08 BooleanLogicLecture2\BooleanLogicLecture2\obj\Debug\BooleanLogicLecture2.pdb

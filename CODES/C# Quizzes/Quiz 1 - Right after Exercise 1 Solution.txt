@@ -1,0 +1,257 @@
+1.) Which of the following data types is used to store single characters?
+
+A.) int   B.) double  C.) string  D.) char
+
+
+
+
+2.) Which of these converts high-level code into object files containing machine code?
+
+A.) text editor  B.) compiler  C.) linker  D.) IDE
+
+
+
+
+3.) Which of the following variables is written in camel case notation?
+
+A.) NameOfStudent    B.) nameofstudent    C.) nameOfStudent    D.) NameOfstudent
+
+
+
+4.) Which of the following is a shortcut to build and run your code?
+
+A.) F1  B.) F5  C.) Ctrl+B   D.) Ctrl+R
+
+
+
+
+5.) Which of the following operators can be used to concatenate strings?
+
+A.) +   B.) ++  C.) %  D.) /
+
+
+
+
+6.) C# is a ________________.
+
+A.) high-level language  B.) low-level language
+
+
+
+
+7.) Which of the following is the proper syntax for a comment in C#?
+
+A.) // this is a comment   B.) $$ this is a comment   C.) >> this is a comment  D.) @@ this is a comment
+
+
+
+
+8.) Which of these is a coding language where the entire code is converted to machine code before it executes?
+
+A.) high-level language  B.) low-level language  C.) compiled language   D.) interpreted language
+
+
+
+
+9.) Which of these combines multiple software development tools into a single application?
+
+A.) text editor  B.) compiler  C.) linker  D.) IDE
+
+
+
+
+10.) Which of the following data types is used to store decimal numbers?
+
+A.) int   B.) double  C.) string  D.) char
+
+
+
+
+11.) Which of these is a coding language designed to be understood by humans?
+
+A.) high-level language  B.) low-level language  C.) compiled language   D.) interpreted
+
+
+
+
+12.) Which of the following symbols are used to indicate the end of a statement in C#?
+
+A.) !   B.) @  C.) ;  D.) >
+
+
+
+
+
+13.) Which of the following is NOT a legal variable name in C#?
+
+A.) number7  B.) 7number  C.) _number7  D.) Number_7
+
+
+
+
+
+14.) What is a collection of pre-existing code called?
+
+A.) solution B.) library C.) variable D.) project
+
+
+
+
+
+15.) C# is a(n) _______________.
+
+A.) interpreted language  B.) compiled language
+
+
+
+
+
+16.) Which of the following data types is used to store text?
+
+A.) int   B.) double  C.) string  D.) char
+
+
+
+
+17.) Which of the following statements will read in input from the user and store it in a string called userInput?
+
+A.) userInput = Console.ReadInput();   B.) userInput = Console.Input();    C.) userInput = Console.InputLine();    D.) userInput = Console.ReadLine();  
+
+
+
+
+18.) Which of the following is the modulus operator, which is used to return the remainder of a division operation?
+
+A.) +   B.) ++  C.) %  D.) /
+
+
+
+
+19.) Which of these is a coding language where each line of code is converted to machine code and executed one-at-a-time?
+
+A.) high-level language  B.) low-level language  C.) compiled language   D.) interpreted language
+
+
+
+
+
+20.) True or False: The C# language is case-sensitive
+
+True
+
+
+
+
+21.) Which of the following code statements will output the text “Hello World!” to the console window?
+
+A.) Console.Print(“Hello World!”);   B.) Console.Output(“Hello World!”);  C.) Console.Text(“Hello World!”);   D.) Console.Write(“Hello World!”); 
+
+
+
+
+22.) Which of the following data types is used to store whole numbers?
+
+A.) int   B.) double  C.) string  D.) char
+
+
+
+
+23.) Which of these is a coding language designed to be understood by computers?
+
+A.) high-level language  B.) low-level language  C.) compiled language   D.) interpreted
+
+
+
+
+24.) Which of the following is the increment operator?
+
+A.) +   B.) ++  C.) %  D.) /
+
+
+
+
+25.) Which of these connects object files together into a single executable file?
+
+A.) text editor  B.) compiler  C.) linker  D.) IDE
+
+
+
+SCROLL DOWN FOR ANSWERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.) D
+2.) B
+3.) C
+4.) B
+5.) A
+6.) A
+7.) A
+8.) C
+9.) D
+10.) B
+11.) A
+12.) C
+13.) B
+14.) B
+15.) B
+16.) C
+17.) D
+18.) C
+19.) D
+20.) True
+21.) D
+22.) A
+23.) B
+24.) B
+25.) C

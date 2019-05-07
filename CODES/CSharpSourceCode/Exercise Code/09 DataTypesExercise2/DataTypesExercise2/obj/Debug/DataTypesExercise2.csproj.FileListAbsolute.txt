@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Exercise Code\DataTypesExercise2\DataTypesExercise2\bin\Debug\DataTypesExercise2.exe.config
+C:\Users\David\Desktop\C# Course\Exercise Code\DataTypesExercise2\DataTypesExercise2\bin\Debug\DataTypesExercise2.exe
+C:\Users\David\Desktop\C# Course\Exercise Code\DataTypesExercise2\DataTypesExercise2\bin\Debug\DataTypesExercise2.pdb
+C:\Users\David\Desktop\C# Course\Exercise Code\DataTypesExercise2\DataTypesExercise2\obj\Debug\DataTypesExercise2.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Exercise Code\DataTypesExercise2\DataTypesExercise2\obj\Debug\DataTypesExercise2.exe
+C:\Users\David\Desktop\C# Course\Exercise Code\DataTypesExercise2\DataTypesExercise2\obj\Debug\DataTypesExercise2.pdb

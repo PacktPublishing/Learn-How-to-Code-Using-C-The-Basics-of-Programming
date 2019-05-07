@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\ReturningPassingDataLecture\ReturningPassingDataLecture\bin\Debug\ReturningPassingDataLecture.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\ReturningPassingDataLecture\ReturningPassingDataLecture\bin\Debug\ReturningPassingDataLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\ReturningPassingDataLecture\ReturningPassingDataLecture\bin\Debug\ReturningPassingDataLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\ReturningPassingDataLecture\ReturningPassingDataLecture\obj\Debug\ReturningPassingDataLecture.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\ReturningPassingDataLecture\ReturningPassingDataLecture\obj\Debug\ReturningPassingDataLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\ReturningPassingDataLecture\ReturningPassingDataLecture\obj\Debug\ReturningPassingDataLecture.pdb

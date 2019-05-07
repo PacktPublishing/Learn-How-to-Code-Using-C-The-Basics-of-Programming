@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\02 VariablesLecture\VariablesLecture\bin\Debug\VariablesLecture.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\02 VariablesLecture\VariablesLecture\bin\Debug\VariablesLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\02 VariablesLecture\VariablesLecture\bin\Debug\VariablesLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\02 VariablesLecture\VariablesLecture\obj\Debug\VariablesLecture.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\02 VariablesLecture\VariablesLecture\obj\Debug\VariablesLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\02 VariablesLecture\VariablesLecture\obj\Debug\VariablesLecture.pdb

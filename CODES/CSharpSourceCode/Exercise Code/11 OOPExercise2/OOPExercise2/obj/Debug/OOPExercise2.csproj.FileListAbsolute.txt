@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Exercise Code\OOPExercise2\OOPExercise2\bin\Debug\OOPExercise2.exe.config
+C:\Users\David\Desktop\C# Course\Exercise Code\OOPExercise2\OOPExercise2\bin\Debug\OOPExercise2.exe
+C:\Users\David\Desktop\C# Course\Exercise Code\OOPExercise2\OOPExercise2\bin\Debug\OOPExercise2.pdb
+C:\Users\David\Desktop\C# Course\Exercise Code\OOPExercise2\OOPExercise2\obj\Debug\OOPExercise2.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Exercise Code\OOPExercise2\OOPExercise2\obj\Debug\OOPExercise2.exe
+C:\Users\David\Desktop\C# Course\Exercise Code\OOPExercise2\OOPExercise2\obj\Debug\OOPExercise2.pdb

@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\ConstructorsLecture\ConstructorsLecture\bin\Debug\ConstructorsLecture.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\ConstructorsLecture\ConstructorsLecture\bin\Debug\ConstructorsLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\ConstructorsLecture\ConstructorsLecture\bin\Debug\ConstructorsLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\ConstructorsLecture\ConstructorsLecture\obj\Debug\ConstructorsLecture.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\ConstructorsLecture\ConstructorsLecture\obj\Debug\ConstructorsLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\ConstructorsLecture\ConstructorsLecture\obj\Debug\ConstructorsLecture.pdb

@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\ListsLecture\ListsLecture\bin\Debug\ListsLecture.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\ListsLecture\ListsLecture\bin\Debug\ListsLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\ListsLecture\ListsLecture\bin\Debug\ListsLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\ListsLecture\ListsLecture\obj\Debug\ListsLecture.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\ListsLecture\ListsLecture\obj\Debug\ListsLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\ListsLecture\ListsLecture\obj\Debug\ListsLecture.pdb

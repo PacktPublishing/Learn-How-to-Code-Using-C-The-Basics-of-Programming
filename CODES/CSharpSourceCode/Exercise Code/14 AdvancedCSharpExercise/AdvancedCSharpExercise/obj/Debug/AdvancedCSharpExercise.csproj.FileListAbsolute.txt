@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\C# Course\Exercise Code\AdvancedCSharpExercise\AdvancedCSharpExercise\bin\Debug\AdvancedCSharpExercise.exe.config
+C:\Users\David\Desktop\C# Course\Exercise Code\AdvancedCSharpExercise\AdvancedCSharpExercise\bin\Debug\AdvancedCSharpExercise.exe
+C:\Users\David\Desktop\C# Course\Exercise Code\AdvancedCSharpExercise\AdvancedCSharpExercise\bin\Debug\AdvancedCSharpExercise.pdb
+C:\Users\David\Desktop\C# Course\Exercise Code\AdvancedCSharpExercise\AdvancedCSharpExercise\obj\Debug\AdvancedCSharpExercise.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Exercise Code\AdvancedCSharpExercise\AdvancedCSharpExercise\obj\Debug\AdvancedCSharpExercise.exe
+C:\Users\David\Desktop\C# Course\Exercise Code\AdvancedCSharpExercise\AdvancedCSharpExercise\obj\Debug\AdvancedCSharpExercise.pdb
+C:\Users\David\Desktop\C# Course\Assignment Code\14 AdvancedCSharpExercise\AdvancedCSharpExercise\bin\Debug\AdvancedCSharpExercise.exe.config
+C:\Users\David\Desktop\C# Course\Assignment Code\14 AdvancedCSharpExercise\AdvancedCSharpExercise\bin\Debug\AdvancedCSharpExercise.exe
+C:\Users\David\Desktop\C# Course\Assignment Code\14 AdvancedCSharpExercise\AdvancedCSharpExercise\bin\Debug\AdvancedCSharpExercise.pdb
+C:\Users\David\Desktop\C# Course\Assignment Code\14 AdvancedCSharpExercise\AdvancedCSharpExercise\obj\Debug\AdvancedCSharpExercise.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Assignment Code\14 AdvancedCSharpExercise\AdvancedCSharpExercise\obj\Debug\AdvancedCSharpExercise.exe
+C:\Users\David\Desktop\C# Course\Assignment Code\14 AdvancedCSharpExercise\AdvancedCSharpExercise\obj\Debug\AdvancedCSharpExercise.pdb

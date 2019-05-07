@@ -1,0 +1,102 @@
+Exercise:
+Write a program that will simulate an ATM and allow a customer to deposit to and withdraw from their checking or savings account.
+
+Requirements:
+Create an Account class that can store a balance and has methods for depositing and withdrawing money. We only need to inherit from this class, not instantiate an object from it, so make it an abstract class.
+
+Derive two different classes from the Account class - CheckingAccount and SavingsAccount. The only difference between a checking account and savings account is that this bank has a “bonus bucks” program when you deposit money to a savings account. For every $100 deposited in a single deposit transaction to a savings account, the bank will deposit $1 in bonus bucks to the account (Hint: Use Math.Floor(number) to round a number down to the nearest whole number).
+
+Assume that the ATM has a retina scanner, so it can automatically identify the customer and no login information is required. Assume the user for this example currently has no money in either of his account types.
+
+Program should have a menu that allows user to select their checking account, savings account, or to exit the program. Once they choose an account, user should be able to choose to make a deposit, make a withdrawal, check their account balance, or exit back to the previous menu. If user attempts to make a withdrawal, the account should check to make sure that the funds are available first and not allow them to go over their balance. After making a deposit or withdrawal, program should display the new balance.
+
+Output should match the following example:
+
+Welcome! Please make a selection
+1 - Checking Account
+2 - Savings Account
+3 - Exit
+1
+
+1 - Deposit
+2 - Withdraw
+3 - Check Balance
+4 - Exit
+3
+
+Your current balance is $0.00.
+
+1 - Deposit
+2 - Withdraw
+3 - Check Balance
+4 - Exit
+1
+
+Enter the amount to deposit: 100
+A total of $100.00 has been deposited to your account.
+Your current balance is $100.00.
+
+1 - Deposit
+2 - Withdraw
+3 - Check Balance
+4 - Exit
+2
+
+Enter the amount to withdraw: 150
+You don't have enough funds to withdraw that amount!
+Your current balance is $100.00.
+
+1 - Deposit
+2 - Withdraw
+3 - Check Balance
+4 - Exit
+2
+
+Enter the amount to withdraw: 40
+A total of $40.00 has been withdrawn from your account.
+Your current balance is $60.00.
+
+1 - Deposit
+2 - Withdraw
+3 - Check Balance
+4 - Exit
+4
+
+Welcome! Please make a selection
+1 - Checking Account
+2 - Savings Account
+3 - Exit
+2
+
+1 - Deposit
+2 - Withdraw
+3 - Check Balance
+4 - Exit
+1
+
+Enter the amount to deposit: 765.43
+You have earned $7 of bonus bucks!
+A total of $772.43 has been deposited to your account.
+Your current balance is $772.43.
+
+1 - Deposit
+2 - Withdraw
+3 - Check Balance
+4 - Exit
+2
+
+Enter the amount to withdraw: 20
+A total of $20.00 has been withdrawn from your account.
+Your current balance is $752.43.
+
+1 - Deposit
+2 - Withdraw
+3 - Check Balance
+4 - Exit
+4
+
+Welcome! Please make a selection
+1 - Checking Account
+2 - Savings Account
+3 - Exit
+3

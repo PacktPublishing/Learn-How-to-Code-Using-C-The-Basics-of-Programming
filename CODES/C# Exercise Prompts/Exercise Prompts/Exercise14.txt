@@ -1,0 +1,20 @@
+Exercise:
+Write a program that can find the distance between two points, given the points’ x and y coordinates.
+
+Requirements:
+Create a Point structure that holds the x and y coordinates of a point on a graph. Use properties to hold the data, and use the automatic properties syntax to define them.
+
+Write a method that accepts two Point structures as parameters and returns the distance between them. The distance formula, given two points with coordinates at (x1, y1) and (x2, y2), respectively, is
+ distance =(x2 - x1)2 + (y2 - y1)2 
+
+
+Hint: Use the Math.Sqrt(number) and Math.Pow(number, power) methods to square root a number and raise a number to a power.
+
+Output should match the following example:
+
+Enter the x coordinate for point 1: 2
+Enter the y coordinate for point 1: 4
+Enter the x coordinate for point 2: 7
+Enter the y coordinate for point 2: 9
+
+The distance between these two points is 7.07

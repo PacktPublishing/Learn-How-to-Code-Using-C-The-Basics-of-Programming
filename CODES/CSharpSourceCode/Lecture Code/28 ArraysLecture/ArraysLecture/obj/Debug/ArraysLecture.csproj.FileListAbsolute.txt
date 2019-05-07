@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\ArraysLecture\ArraysLecture\bin\Debug\ArraysLecture.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\ArraysLecture\ArraysLecture\bin\Debug\ArraysLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\ArraysLecture\ArraysLecture\bin\Debug\ArraysLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\ArraysLecture\ArraysLecture\obj\Debug\ArraysLecture.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\ArraysLecture\ArraysLecture\obj\Debug\ArraysLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\ArraysLecture\ArraysLecture\obj\Debug\ArraysLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\28 ArraysLecture\ArraysLecture\bin\Debug\ArraysLecture.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\28 ArraysLecture\ArraysLecture\bin\Debug\ArraysLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\28 ArraysLecture\ArraysLecture\bin\Debug\ArraysLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\28 ArraysLecture\ArraysLecture\obj\Debug\ArraysLecture.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\28 ArraysLecture\ArraysLecture\obj\Debug\ArraysLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\28 ArraysLecture\ArraysLecture\obj\Debug\ArraysLecture.pdb

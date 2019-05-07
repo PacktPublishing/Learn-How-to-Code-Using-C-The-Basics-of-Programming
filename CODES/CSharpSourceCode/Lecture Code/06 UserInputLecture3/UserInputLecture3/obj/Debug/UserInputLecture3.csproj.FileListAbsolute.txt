@@ -1,0 +1,5 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\06 UserInputLecture3\UserInputLecture3\bin\Debug\UserInputLecture3.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\06 UserInputLecture3\UserInputLecture3\bin\Debug\UserInputLecture3.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\06 UserInputLecture3\UserInputLecture3\bin\Debug\UserInputLecture3.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\06 UserInputLecture3\UserInputLecture3\obj\Debug\UserInputLecture3.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\06 UserInputLecture3\UserInputLecture3\obj\Debug\UserInputLecture3.pdb

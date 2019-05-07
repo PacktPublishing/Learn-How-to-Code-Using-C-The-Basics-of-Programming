@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\StructuresLecture\StructuresLecture\bin\Debug\StructuresLecture.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\StructuresLecture\StructuresLecture\bin\Debug\StructuresLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\StructuresLecture\StructuresLecture\bin\Debug\StructuresLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\StructuresLecture\StructuresLecture\obj\Debug\StructuresLecture.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\StructuresLecture\StructuresLecture\obj\Debug\StructuresLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\StructuresLecture\StructuresLecture\obj\Debug\StructuresLecture.pdb

@@ -1,0 +1,290 @@
+1.) How many times will the following code iterate?
+
+for (int i = 1; i <= 3; i++)
+{
+   Console.WriteLine(i);
+}
+
+
+A.) 0       B.) 1        C.) 2        D.) 3
+
+
+
+
+
+
+2.) Which of these is the NOT operator?
+
+A.) !=    B.) !    C.) &&   D.) ||
+
+
+
+
+
+
+3.) What does this boolean expression evaluate to? (7 == 7)
+
+True    false
+
+
+
+
+
+4.) What does the following code output in the console window?
+
+if (5 == 7)
+	Console.WriteLine(“blue”);
+else
+	Console.WriteLine(“red”);
+
+A.) Blue    B.) red    C.) green    D.) 57
+
+
+
+
+
+5.) How many times will the following code iterate?
+
+int i = 8;
+
+while (i < 3) 
+{     
+   Console.WriteLine(i);    
+   i++;
+}
+
+A.) 0       B.) 1        C.) 2        D.) 3
+
+
+
+
+
+
+
+6.) Which of these is the logical AND operator?
+
+A.) !=    B.) !    C.) &&   D.) ||
+
+
+
+
+
+
+7.) How many times will the following code iterate?
+
+int i = 1;
+
+while (i < 3) 
+{     
+   Console.WriteLine(i);    
+   i++;
+}
+
+A.) 0       B.) 1         C.) 2       D.) 3
+
+
+
+
+
+
+
+8.) What does this boolean expression evaluate to? !(2 > 1)
+
+True    false
+
+
+
+
+
+
+9.) What does the following code output in the console window?
+
+if (4 >= 8)
+	Console.WriteLine(“blue”);
+else if (9 <= 3)
+	Console.WriteLine(“red”);
+else
+	Console.WriteLine(“green”);
+
+A.) Blue    B.) red    C.) green    D.) 48
+
+
+
+
+
+10.) Which of these is the inequality operator?
+
+A.) !=    B.) !    C.) &&   D.) ||
+
+
+
+
+
+
+11.) Which of these is the logical OR operator?
+
+A.) !=    B.) !    C.) &&   D.) ||
+
+
+
+
+
+
+12.) How many times will the following code iterate?
+
+int i = 8;
+
+do
+{     
+   Console.WriteLine(i);    
+   i++;
+} while (i < 3);
+
+A.) 0         B.) 1         C.) 2       D.) 3  
+
+
+
+
+
+
+13.) Which of these data types are used to store a value of true or false?
+
+A.) int   B.) char   C.) bool   D.) string
+
+
+
+
+
+14.) What does this boolean expression evaluate to? (1 != 2)
+
+True    false
+
+
+
+
+
+
+15.) What does the following code output in the console window?
+
+int number = 2;
+
+switch (number)
+{
+   case 1:
+      Console.WriteLine("blue");
+      break;
+   case 2:
+      Console.WriteLine("red");
+      break;
+   case 3:
+      Console.WriteLine("green");
+      break;
+   default:
+      Console.WriteLine("yellow");
+      break;
+}
+
+A.) Blue    B.) red    C.) green    D.) 48
+
+
+
+
+
+
+16.) How many times will the following code iterate?
+
+for (int i = 1; i <= 7; i++)
+{
+   if (i == 2)
+   {
+      break;
+   }
+   Console.WriteLine(i);
+}
+
+A.) 0       B.) 1        C.) 2        D.) 3
+
+
+
+
+
+
+
+17.) What does this boolean expression evaluate to? (( 2 > 1) && (7 < 4) || (3 < 8))
+
+True    false
+
+
+
+
+SCROLL DOWN FOR ANSWERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.) D
+2.) B
+3.) True
+4.) B
+5.) A
+6.) C
+7.) C
+8.) False
+9.) C
+10.) A
+11.) D
+12.) B
+13.) C
+14.) True
+15.) B 
+16.) C
+17.) True

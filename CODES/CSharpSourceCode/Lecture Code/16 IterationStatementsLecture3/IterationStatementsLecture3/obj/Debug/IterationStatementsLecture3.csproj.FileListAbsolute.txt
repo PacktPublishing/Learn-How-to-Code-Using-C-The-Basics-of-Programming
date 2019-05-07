@@ -1,0 +1,5 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\IterationStatementsLecture3\IterationStatementsLecture3\bin\Debug\IterationStatementsLecture3.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\IterationStatementsLecture3\IterationStatementsLecture3\bin\Debug\IterationStatementsLecture3.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\IterationStatementsLecture3\IterationStatementsLecture3\bin\Debug\IterationStatementsLecture3.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\IterationStatementsLecture3\IterationStatementsLecture3\obj\Debug\IterationStatementsLecture3.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\IterationStatementsLecture3\IterationStatementsLecture3\obj\Debug\IterationStatementsLecture3.pdb

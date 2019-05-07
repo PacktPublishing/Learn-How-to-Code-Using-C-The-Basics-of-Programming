@@ -1,0 +1,32 @@
+Exercise:
+Write a program that asks whether or not the user likes pizza and then reads their choice back to them.
+
+Requirements:
+Prompt the user to enter “yes” if they like pizza or “no” if they don’t like pizza. Validate the user input, meaning check to make sure that they entered exactly “yes” or exactly “no” for their answer. If the input is invalid, let the user know, and ask them again. Continue to ask the question until they enter a valid answer.
+
+If the user enters “yes” respond with the phrase “You like pizza.” If the user enters “no” respond with the phrase “You do not like pizza.”
+
+Output should match the following examples.
+
+Example 1:
+Do you like pizza? (yes/no): yes
+You like pizza
+
+Example 2:
+Do you like pizza? (yes/no): Yes
+You did not enter a valid response, please try again
+
+Do you like pizza? (yes/no): YES
+You did not enter a valid response, please try again
+
+Do you like pizza? (yes/no): yersfgsgh
+You did not enter a valid response, please try again
+
+Do you like pizza? (yes/no): bananas
+You did not enter a valid response, please try again
+
+Do you like pizza? (yes/no): 7
+You did not enter a valid response, please try again
+
+Do you like pizza? (yes/no): no
+You do not like pizza

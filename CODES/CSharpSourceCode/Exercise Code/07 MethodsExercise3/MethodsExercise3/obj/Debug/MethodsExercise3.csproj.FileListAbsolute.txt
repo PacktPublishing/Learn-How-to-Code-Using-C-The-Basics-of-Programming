@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Exercise Code\MethodsExercise3\MethodsExercise3\bin\Debug\MethodsExercise3.exe.config
+C:\Users\David\Desktop\C# Course\Exercise Code\MethodsExercise3\MethodsExercise3\bin\Debug\MethodsExercise3.exe
+C:\Users\David\Desktop\C# Course\Exercise Code\MethodsExercise3\MethodsExercise3\bin\Debug\MethodsExercise3.pdb
+C:\Users\David\Desktop\C# Course\Exercise Code\MethodsExercise3\MethodsExercise3\obj\Debug\MethodsExercise3.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Exercise Code\MethodsExercise3\MethodsExercise3\obj\Debug\MethodsExercise3.exe
+C:\Users\David\Desktop\C# Course\Exercise Code\MethodsExercise3\MethodsExercise3\obj\Debug\MethodsExercise3.pdb

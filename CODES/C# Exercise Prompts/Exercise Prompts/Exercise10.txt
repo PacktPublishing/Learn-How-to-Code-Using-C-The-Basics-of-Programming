@@ -1,0 +1,81 @@
+Exercise:
+Write a program that keeps track of the products in a business’s inventory.
+
+Requirements:
+Write a Product class that stores the name, price, and quantity of a type of product. The class should be responsible for prompting for input from the user and for displaying a print out of its data. The print out should include the total value that the business owns of that product (its price * quantity).
+
+Write an Inventory class that stores all the products the business owns. The business organizes all of its products into a single inventory, so make this class static. The class should be responsible for displaying a print out of all the products and their info. The print out should include the total value of all products in the inventory.
+
+Follow the principles of encapsulation by making all fields of both classes private.
+
+Create a menu system where the user can enter 1 to add a new product to the inventory, 2 to display the inventory, and 3 to exit the program. User can use the menu repeatedly until they enter 3.
+
+Output should match the following example:
+
+Choose an option from the menu
+1 - Enter Product
+2 - Display Inventory
+3 - Exit
+1
+
+Enter product name: Desktop Computer
+Enter price: 799.99
+Enter quantity: 34
+
+Product added to inventory
+
+Choose an option from the menu
+1 - Enter Product
+2 - Display Inventory
+3 - Exit
+1
+
+Enter product name: Laptop Computer
+Enter price: 999.99
+Enter quantity: 21
+
+Product added to inventory
+
+Choose an option from the menu
+1 - Enter Product
+2 - Display Inventory
+3 - Exit
+1
+
+Enter product name: Tablet Computer
+Enter price: 599.99
+Enter quantity: 74
+
+Product added to inventory
+
+Choose an option from the menu
+1 - Enter Product
+2 - Display Inventory
+3 - Exit
+2
+
+Current inventory:
+*********************************************
+
+Product Name: Desktop Computer
+Price: $799.99
+Quantity: 34
+Total Value: $27199.66
+
+Product Name: Laptop Computer
+Price: $999.99
+Quantity: 21
+Total Value: $20999.79
+
+Product Name: Tablet Computer
+Price: $599.99
+Quantity: 74
+Total Value: $44399.26
+
+Total inventory value: $92598.71
+
+Choose an option from the menu
+1 - Enter Product
+2 - Display Inventory
+3 - Exit
+3

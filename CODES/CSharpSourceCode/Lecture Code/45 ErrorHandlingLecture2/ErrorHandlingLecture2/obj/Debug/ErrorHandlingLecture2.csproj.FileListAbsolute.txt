@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\ErrorHandlingLecture2\ErrorHandlingLecture2\bin\Debug\ErrorHandlingLecture2.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\ErrorHandlingLecture2\ErrorHandlingLecture2\bin\Debug\ErrorHandlingLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\ErrorHandlingLecture2\ErrorHandlingLecture2\bin\Debug\ErrorHandlingLecture2.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\ErrorHandlingLecture2\ErrorHandlingLecture2\obj\Debug\ErrorHandlingLecture2.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\ErrorHandlingLecture2\ErrorHandlingLecture2\obj\Debug\ErrorHandlingLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\ErrorHandlingLecture2\ErrorHandlingLecture2\obj\Debug\ErrorHandlingLecture2.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\44 ErrorHandlingLecture2\ErrorHandlingLecture2\bin\Debug\ErrorHandlingLecture2.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\44 ErrorHandlingLecture2\ErrorHandlingLecture2\bin\Debug\ErrorHandlingLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\44 ErrorHandlingLecture2\ErrorHandlingLecture2\bin\Debug\ErrorHandlingLecture2.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\44 ErrorHandlingLecture2\ErrorHandlingLecture2\obj\Debug\ErrorHandlingLecture2.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\44 ErrorHandlingLecture2\ErrorHandlingLecture2\obj\Debug\ErrorHandlingLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\44 ErrorHandlingLecture2\ErrorHandlingLecture2\obj\Debug\ErrorHandlingLecture2.pdb

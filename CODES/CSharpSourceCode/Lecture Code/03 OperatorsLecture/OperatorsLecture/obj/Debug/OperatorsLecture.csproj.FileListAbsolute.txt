@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\OperatorsLecture\OperatorsLecture\bin\Debug\OperatorsLecture.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\OperatorsLecture\OperatorsLecture\bin\Debug\OperatorsLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\OperatorsLecture\OperatorsLecture\bin\Debug\OperatorsLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\OperatorsLecture\OperatorsLecture\obj\Debug\OperatorsLecture.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\OperatorsLecture\OperatorsLecture\obj\Debug\OperatorsLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\OperatorsLecture\OperatorsLecture\obj\Debug\OperatorsLecture.pdb

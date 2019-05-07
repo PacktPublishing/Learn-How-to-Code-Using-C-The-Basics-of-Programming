@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\IterationStatementsLecture2\IterationStatementsLecture2\bin\Debug\IterationStatementsLecture2.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\IterationStatementsLecture2\IterationStatementsLecture2\bin\Debug\IterationStatementsLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\IterationStatementsLecture2\IterationStatementsLecture2\bin\Debug\IterationStatementsLecture2.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\IterationStatementsLecture2\IterationStatementsLecture2\obj\Debug\IterationStatementsLecture2.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\IterationStatementsLecture2\IterationStatementsLecture2\obj\Debug\IterationStatementsLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\IterationStatementsLecture2\IterationStatementsLecture2\obj\Debug\IterationStatementsLecture2.pdb

@@ -1,0 +1,43 @@
+Exercise:
+Make an existing program, that displays info about dinosaurs, more robust by adding exception handling to it.
+
+Requirements:
+There is an existing program that prompts a user to choose from a list of dinosaurs to learn more info about that species. It works fine when the user enters valid input, but it crashes if they don’t enter an integer, and it doesn’t do anything if they enter an integer that doesn’t match one of the choices.
+
+Create a new console project, then replace the code in Program.cs with the code below. Add exception handling to the program by adding a try/catch block. If the user enters a valid integer that isn’t one of the menu choices, throw your own exception and add a custom message explaining the problem.
+
+The program should continue to prompt the user for a selection until they enter valid input.
+
+Output should match the following example:
+
+Please make a selection to learn more information
+1 - Tyrannosaurus rex
+2 - Stegosaurus
+3 - Velociraptor
+q
+
+Input string was not in a correct format.
+
+Please make a selection to learn more information
+1 - Tyrannosaurus rex
+2 - Stegosaurus
+3 - Velociraptor
+2.5
+
+Input string was not in a correct format.
+
+Please make a selection to learn more information
+1 - Tyrannosaurus rex
+2 - Stegosaurus
+3 - Velociraptor
+7
+
+7 is not one of the choices.
+
+Please make a selection to learn more information
+1 - Tyrannosaurus rex
+2 - Stegosaurus
+3 - Velociraptor
+1
+
+Tyrannosaurus, meaning "tyrant lizard", from the Ancient Greek tyrannos, "tyrant", and sauros, "lizard" is a genus of coelurosaurian theropod dinosaur. The species Tyrannosaurus rex (rex meaning "king" in Latin), is one of the most well-represented of the large theropods. Tyrannosaurus lived throughout what is now western North America, on what was then an island continent known as Laramidia. Source: Wikipedia.

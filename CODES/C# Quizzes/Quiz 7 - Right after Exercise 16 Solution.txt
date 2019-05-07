@@ -1,0 +1,220 @@
+1.) Properties have characteristics of both ________________.
+
+A.) classes and objects          B.) fields and methods            C.) public and private          D.) namespaces and variables
+
+
+
+
+2.) True or False:  Structures can contain fields, constructors, properties, and methods. 
+
+True       False
+
+
+
+
+3.) It is convention to begin the name of an interface with a _____________.
+
+A.) capital T            B.) lowercase t        C.) capital I               D.) lowercase i
+
+
+
+
+
+4.) Using generics, you can define generic ___________.
+
+A.) interfaces            B.) data types           C.) constructors           D.) exceptions       
+
+
+
+
+5.) True or False: Properties require an underlying field to store the data in.
+
+True    False
+
+
+
+
+6.) True or False: A structure is a reference type.
+
+True     False
+
+
+
+
+
+7.) True or False: All methods specified by an interface are public by default and don’t require an access modifier.
+
+True         False
+
+
+
+
+
+
+8.) What are generics useful in defining?
+
+A.) math classes              B.) graphics classes            C.) utility classes            D.) collection classes
+
+
+
+
+
+9.) What are the two types of accessor code blocks you can use when defining a property?
+
+A.) get/assign                 B.) retrieve/set               C.) retrieve/assign             D.) get/set
+
+
+
+
+
+10.) True or False: You are allowed to declare a default constructor in a structure.
+
+True     False
+
+
+
+
+
+
+11.) True or False: To inherit from an interface, you use the same syntax as inheriting from a class.
+
+True         False
+
+
+
+
+
+12.) It is convention to use a ____________ as the placeholder for a generic data type.
+
+A.) capital T            B.) lowercase t        C.) capital I               D.) lowercase i
+
+
+
+
+
+13.) True or False: If a property has a set accessor,  but no get accessor, it is read-only.
+
+True      False
+
+
+
+
+
+14.) True or False: Structures support inheritance.
+
+True     False
+
+
+
+
+
+15.) True or False: A class may only inherit from a single interface.
+
+True         False
+
+
+
+
+
+16.) Converting from a value type to a reference type, and vice-versa, is known as _______________.
+
+A.) squaring and rooting                B.) converting and parsing       C.) boxing and unboxing              D.) locking and unlocking
+
+
+
+
+17.) What is the syntax for declaring an automatic property?
+
+A.) public int MyInteger(get, set);    B.) public int MyInteger<get/set>   C.) public int MyInteger { get; set; }   D.) public int MyInteger { <get, set> }
+
+
+
+
+18.) True or False: Structures are well suited for entities whose primary use is to represent data and that only need to represent a small amount of data.
+
+True     False
+
+
+
+
+
+
+19.) True or False: In addition to using a generic type in classes, you can also use them in methods.
+
+True       False
+
+
+
+SCROLL DOWN FOR ANSWERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.) B
+2.) True
+3.) C
+4.) B
+5.) True
+6.) False
+7.) True
+8.) D
+9.) D
+10.) False
+11.) True
+12.) A
+13.) False
+14.) False
+15.) False
+16.) C
+17.) C
+18.) True
+19.) True

@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\PropertiesLecture\PropertiesLecture\bin\Debug\PropertiesLecture.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\PropertiesLecture\PropertiesLecture\bin\Debug\PropertiesLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\PropertiesLecture\PropertiesLecture\bin\Debug\PropertiesLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\PropertiesLecture\PropertiesLecture\obj\Debug\PropertiesLecture.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\PropertiesLecture\PropertiesLecture\obj\Debug\PropertiesLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\PropertiesLecture\PropertiesLecture\obj\Debug\PropertiesLecture.pdb

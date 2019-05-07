@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\EnumerationsLecture\EnumerationsLecture\bin\Debug\EnumerationsLecture.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\EnumerationsLecture\EnumerationsLecture\bin\Debug\EnumerationsLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\EnumerationsLecture\EnumerationsLecture\bin\Debug\EnumerationsLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\EnumerationsLecture\EnumerationsLecture\obj\Debug\EnumerationsLecture.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\EnumerationsLecture\EnumerationsLecture\obj\Debug\EnumerationsLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\EnumerationsLecture\EnumerationsLecture\obj\Debug\EnumerationsLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\33 EnumerationsLecture\EnumerationsLecture\bin\Debug\EnumerationsLecture.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\33 EnumerationsLecture\EnumerationsLecture\bin\Debug\EnumerationsLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\33 EnumerationsLecture\EnumerationsLecture\bin\Debug\EnumerationsLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\33 EnumerationsLecture\EnumerationsLecture\obj\Debug\EnumerationsLecture.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\33 EnumerationsLecture\EnumerationsLecture\obj\Debug\EnumerationsLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\33 EnumerationsLecture\EnumerationsLecture\obj\Debug\EnumerationsLecture.pdb

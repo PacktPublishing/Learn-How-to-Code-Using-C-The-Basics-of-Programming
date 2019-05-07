@@ -1,0 +1,18 @@
+Exercise:
+Write a program that can say hello when given a name.
+
+Requirements:
+Write a method that accepts someone’s name as input and prints a hello message to that name to the screen. Include an optional parameter that can be used to tell the method to also ask how the person is.
+
+Prompt the user for a name and pass that name to the method you wrote. Prompt the user for a different name and pass that name to the method. Prompt the user for a third name and pass that name to the method., while also telling the method to ask how the person is.
+
+Output should match the following example:
+
+Enter a name: Mary
+Hello Mary!
+
+Enter another name: Steve
+Hello Steve!
+
+Enter a third name: Jane
+Hello Jane! How are you?

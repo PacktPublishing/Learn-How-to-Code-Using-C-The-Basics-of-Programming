@@ -1,0 +1,29 @@
+Exercise:
+Write a program that allows the user to win a prize depending on which number door they select.
+
+Requirements:
+Prompt the user to choose a numbered door between 1 and 5. Let them know which attempt this is. Users get three attempts, regardless of if they choose a valid number or win a prize. If the user chooses a valid door number, they win the prize behind that door. If they don’t choose a valid door number, they don’t win anything.
+
+Use both a for loop and a switch statement in your solution.
+
+Output should match the following examples.
+
+Example 1:
+Choose a door between 1-5 and win a prize! This is attempt #1: 1
+You win a balloon!
+
+Choose a door between 1-5 and win a prize! This is attempt #2: 2
+You win a stuffed animal!
+
+Choose a door between 1-5 and win a prize! This is attempt #3: 3
+You win a bicycle!
+
+Example 2:
+Choose a door between 1-5 and win a prize! This is attempt #1: q
+That's not even a choice. You win nothing!
+
+Choose a door between 1-5 and win a prize! This is attempt #2: 4
+You win a car!
+
+Choose a door between 1-5 and win a prize! This is attempt #3: 5
+You win a million dollars!

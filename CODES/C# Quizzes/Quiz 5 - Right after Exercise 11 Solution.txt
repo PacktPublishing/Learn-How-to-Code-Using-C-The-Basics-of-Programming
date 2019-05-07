@@ -1,0 +1,311 @@
+1.) An object’s fields define its ___________.
+
+A.) state              B.) static                C.) behavior                D.) constructor
+
+
+
+
+
+2.) What is the purpose of a constructor?
+
+A.) to initialize an object        B.) to define an object’s access level       C.) to define static members      D.) to establish an inheritance hierarchy
+
+    
+
+
+
+3.) If you don’t specify an access modifier for a field, what level of access does it default to?
+
+A.) public         B.) private        C.) protected         D.) guarded
+
+
+
+
+
+4.) For static fields, there is
+
+A.) a different copy of the variable per object           B.) multiple copies of the variable per object             C.) one copy of the variable per class           D.) no copies of the variable
+
+
+
+
+
+5.) When a class inherits from a base class, it is known as a _________ class.
+
+A.) derived              B.) improvised          C.) encapsulated          D.) private
+
+
+
+
+
+6.) An object’s methods define its ___________.
+
+A.) state              B.) static                C.) behavior                D.) constructor
+
+
+
+
+
+7.) True or False: You must define a return type for a constructor
+
+True      False
+
+
+
+
+
+8.) If a field or method is private, it can only be accessed by _____________.
+
+A.) other classes              B.) derived classes                C.) its own class         D.) its own class and derived classes
+
+
+
+
+
+
+9.) Static fields are accessed through their ___________.
+
+A.) object             B.) television            C.) constructor          D.) class
+
+
+
+
+
+10.) True or False: When you add fields and methods to a derived class, they are inherited by the base class.
+
+True     False
+
+
+
+
+
+
+
+11.) A specific object is referred to as a(n) ___________ of a class.
+
+A.) value                 B.) instance              C.) constructor              D.) state
+
+
+
+
+
+12.) True or False: A constructor is automatically called whenever an object of that class is instantiated
+
+True      False
+
+
+
+
+
+13.) If you try to access a private field outside its class, IntelliSense ____________.
+
+A.) will list private fields in red           B.) will list private fields in bold      C.) will list private fields like any other field     D.) won’t even list the field    
+
+
+
+
+
+
+14.) True or False: Static methods can be accessed through an object
+
+True    False
+
+
+
+
+
+15.) True or False: You can derive multiple classes from a single base class
+
+True     False
+
+
+
+
+
+16.) Creating an object is referred to as ____________ an object from a class.
+
+A.) privatizing             B.) encapsulating             C.) inheriting           D.) instantiating
+
+
+
+
+17.) True or False: Constructors can be overloaded
+
+True      False
+
+
+
+
+
+18.) What is the practice of hiding an object’s internal state and having all interaction go through its methods known as?
+
+A.) encapsulation        B.) espionage         C.) inheritance          D.) instantiation
+
+
+
+
+
+
+19.) True or False: Any fields or methods that a static method uses must be static as well.
+
+True        False
+
+
+
+
+
+
+20.) What keyword is used by a constructor of a derived class to call the constructor of the base class?
+
+A.) call             B.) base           C.) parent         D.) construct
+
+
+
+
+21.) If you want to be able to override a method in a derived class, what keyword must you use when defining the method in the base class?
+
+A.) override                B.) changeable              C.) virtual             D.) editable
+
+
+
+
+
+
+22.) True or False: Objects are a value type.
+
+True     False
+
+
+
+  
+
+23.) What is a constructor that doesn’t have any parameters called?
+
+A.) automatic constructor        B.) default constructor       C.) private constructor       D.) void constructor
+
+
+
+
+
+
+24.) In C#, what keyword can you use in front of a field to distinguish it from local variables with the same name?
+
+A.) me           B.) this          C.) mine           D.) that
+
+
+
+
+
+
+25.) True or False: You can instantiate objects from static classes
+
+True    False
+
+
+
+
+26.) True or False: Static classes can only contain static fields and static methods
+
+True        False
+
+
+
+
+
+
+27.) If a field or method is protected, it can only be accessed by _____________.
+
+A.) other classes              B.) derived classes                C.) its own class         D.) its own class and derived classes
+
+
+
+
+28.) True or False: You can instantiate objects from abstract classes
+
+True    False
+
+
+
+
+SCROLL DOWN FOR ANSWERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.) A
+2.) A
+3.) B
+4.) C
+5.) A
+6.) C
+7.) False
+8.) C
+9.) D
+10.) False
+11.) B
+12.) True
+13.) D
+14.) False
+15.) True
+16.) D
+17.) True
+18.) A
+19.) True
+20.) B
+21.) C
+22.) False
+23.) B
+24.) B
+25.) False
+26.) True
+27.) D
+28.) False

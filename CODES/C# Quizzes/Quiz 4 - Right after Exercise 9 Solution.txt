@@ -1,0 +1,244 @@
+1.) In the following array, what number is in index 2?
+
+int[] myArray = { 2, 4, 6, 8 };
+
+A.) 2        B.) 4       C.) 6     D.) 8
+
+
+
+
+
+
+2.) Which of the following is the correct way to add quotes to a string?
+
+A.) /“hello/”     B.) //“hello//”     C.) \“hello\”      D.) \\“hello\\”
+
+
+
+
+
+
+
+3.) What will the following code output to the screen?
+
+int[] myArray1 = { 1, 2, 3 };
+int[] myArray2 = { 4, 5, 6 };
+
+myArray2 = myArray1;
+
+myArray2[0] = 8;
+
+Console.WriteLine(myArray1[0]);
+
+A.) 1       B.) 2        C.) 4      D.) 8     
+
+
+
+
+4.) True or False: Lists are a reference type
+
+True       False
+
+
+
+
+
+5.) In C#, how do you retrieve the element stored in index 1 in an array?
+
+A.) myArray{1}         B.) myArray<1>            C.) myArray(1)        D.) myArray[1]
+
+
+
+
+
+6.) Which of the following is a valid use of string interpolation?
+
+A.) $”Her name is {name}”      B.) $”Her name is <name>”    C.) #”Her name is {name}”      D.) #”Her name is <name>”
+
+
+
+
+7.) What method can be used to make a copy of an array?
+
+A.) Clone()      B.) Duplicate()       C.) Replicate()    D.) Copy()
+
+
+
+
+8.) What will the following code output to the screen?
+
+List<string> usPresidents = new List<string>();
+
+usPresidents.Add("Washington");
+usPresidents.Add("Adams");
+usPresidents.Add("Hogan");
+usPresidents.Add("Madison");
+
+usPresidents.Insert(2, "Jefferson");
+
+usPresidents.RemoveAt(3);
+
+Console.WriteLine(usPresidents[3]);
+
+A.) Adams     B.) Hogan     C.) Jefferson     D.) Madison
+
+
+
+
+
+9.) Which of the following is a loop type that can be used to iterate through every element in an array?
+
+A.) arrayloop                B.) getevery             C.) foreach             D.) geteach             
+
+
+
+
+10.) Which of the following will return the number of characters in the string stored in myString?
+
+A.) myString.Size       B.) myString.Chars       C.) myString.Length       D.) myString.NumChars
+
+
+
+
+
+11.) What will the following code output to the screen?
+
+static void Main(string[] args)
+{
+   int[] myArray1 = { 1, 2, 3 };
+   someMethod(myArray1);
+   Console.WriteLine(myArray1[0]);
+}
+
+static void someMethod(int[] myArray2)
+{
+   myArray2 = new int[3];
+   myArray2[0] = 2;
+}
+
+
+A.) 0       B.) null       C.) 1      D.) 2
+
+
+
+
+
+12.) True or False: In C#, arrays require less memory and processing power than Lists.
+
+True    False
+
+
+
+
+
+13.) Which of the following statements will remove all the elements from myList?
+
+A.) myList.Empty();        B.) myList.Delete();        C.) myList.Clear();         D.) myList.Remove();
+
+
+
+
+
+14.) Which of the following is the proper syntax for declaring an enumeration?
+
+A.) enum Colors { Red, Green, Blue };    B.) enum Colors < Red, Green, Blue >;    C.) numerate Colors { Red, Green, Blue };    D.) numerate Colors < Red, Green, Blue >;
+
+
+
+
+
+15.) Which of the following will return the number of elements that myArray contains?
+
+A.) myArray.NumElements       B.) myArray.Length        C.) myArray.Elements          D.) myArray.Size
+
+
+
+
+
+16.) Which of the following will round the value in myDouble to 2 decimal places and then convert it into a string?
+
+A.) myDouble.ToString("A")    B.) myDouble.ToString("F")    C.) myDouble.ToString("2")    D.) myDouble.ToString("S")
+
+
+
+
+
+17.) True or False: In C#, arrays are easier to resize than Lists.
+
+True    False
+
+
+
+
+
+SCROLL DOWN FOR ANSWERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.) C
+2.) C
+3.) D
+4.) True
+5.) D
+6.) A
+7.) A
+8.) D
+9.) C
+10.) C
+11.) C
+12.) True
+13.) C
+14.) A
+15.) B
+16.) B
+17.) False

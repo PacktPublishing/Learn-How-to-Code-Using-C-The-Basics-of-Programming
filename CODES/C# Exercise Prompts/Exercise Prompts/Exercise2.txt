@@ -1,0 +1,24 @@
+Exercise:
+Write a program that determines if the user should go shopping or not.
+
+Requirements:
+Ask the user if guacamole is on sale. Then ask them how much money they have in their pocket. If guacamole is on sale and they have at least 10 dollars to spend on it, they will want to go shopping. Also, if they at least 100 dollars, they will want to go shopping regardless of whether or not guacamole is on sale. Otherwise, they will want to stay home.
+
+For this exercise, assume the user will only enter valid input.
+
+Output should match the following examples.
+
+Example 1:
+Is guacamole on sale? (yes/no): yes
+How much money is in your pocket? 12
+Let's go shopping!
+
+Example 2:
+Is guacamole on sale? (yes/no): yes
+How much money is in your pocket? 9.99
+Let's stay home
+
+Example 3:
+Is guacamole on sale? (yes/no): no
+How much money is in your pocket? 100
+Let's go shopping!

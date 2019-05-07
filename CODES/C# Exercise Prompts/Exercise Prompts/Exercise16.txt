@@ -1,0 +1,76 @@
+Exercise:
+Write a program that can store objects in a Queue.
+
+Requirements:
+Write your own Queue class called SnazzyQueue. A Queue is a collection class, similar to a Stack in that when you read an item, it removes it from the collection. Unlike a Stack, however, a Queue reads its data on a first-in, first-out (FIFO) basis. So the first item added to the queue will be the first item read from the queue. Hint: Use a List field to store the items.
+
+Use generics so that SnazzyQueue will be able to store any data type that you specify.
+
+In Main(), create an instance of SnazzyQueue that can store integers. Allow the user to either add an item to the queue (enqueue) or read and remove an item from the queue (dequeue).
+
+Output should match the following example:
+
+1 - Enqueue
+2 - Dequeue
+3 - Exit
+1
+
+Enter an item to enqueue: 10
+10 has been added to the queue
+
+1 - Enqueue
+2 - Dequeue
+3 - Exit
+1
+
+Enter an item to enqueue: 15
+15 has been added to the queue
+
+1 - Enqueue
+2 - Dequeue
+3 - Exit
+1
+
+Enter an item to enqueue: 20
+20 has been added to the queue
+
+1 - Enqueue
+2 - Dequeue
+3 - Exit
+2
+
+10 has been removed from the queue
+
+1 - Enqueue
+2 - Dequeue
+3 - Exit
+1
+
+Enter an item to enqueue: 25
+25 has been added to the queue
+
+1 - Enqueue
+2 - Dequeue
+3 - Exit
+2
+
+15 has been removed from the queue
+
+1 - Enqueue
+2 - Dequeue
+3 - Exit
+2
+
+20 has been removed from the queue
+
+1 - Enqueue
+2 - Dequeue
+3 - Exit
+2
+
+25 has been removed from the queue
+
+1 - Enqueue
+2 - Dequeue
+3 - Exit
+3

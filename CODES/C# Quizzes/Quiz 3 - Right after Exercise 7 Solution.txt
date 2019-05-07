@@ -1,0 +1,267 @@
+1.) What data type does the following method return?
+
+static double MyMethod(int a, bool b)
+{
+	// some code
+}
+
+A.) static      B.) double     C.) int     D.) bool
+
+
+
+
+
+
+
+2.) What will the output of the following code be?
+
+static void Main(string[] args)
+{
+   int x = 10;
+   ChangeNumber(x);
+   Console.WriteLine(x);
+}
+
+static void ChangeNumber(int y)
+{
+   y = 0;
+}
+
+A.) 0       B.) 5     C.) 10     D.) 15
+
+
+
+
+
+
+3.) What keyword is used when you don’t want a method to return any data?
+
+A.) int         B.) empty         C.) char         D.) void 
+
+
+
+
+
+
+4.) What term refers to declaring more than one method with the same name within the same scope?
+
+A.) overloading       B.) duplicating       C.) replicating       D.) stacking
+
+
+
+
+
+5.) What data type does the following method accept as input?
+
+static double MyMethod(int a)
+{
+	// some code
+}
+
+A.) static      B.) double     C.) int     D.) bool
+
+
+
+
+
+6.) What will the output of the following code be?
+
+static void Main(string[] args)
+{
+   int x = 10;
+   ChangeNumber(ref x);
+   Console.WriteLine(x);
+}
+
+static void ChangeNumber(ref int y)
+{
+   y = 0;
+}
+
+A.) 0       B.) 5     C.) 10     D.) 15
+
+
+
+
+
+
+
+
+7.) True or false: Two methods can have the same signature
+
+True      False
+
+
+
+
+
+8.) What is the term for the 4 and 5 in the following code?
+
+static void Main(string[] args)
+{
+   int result = NumbersAdded(4, 5);
+}
+
+static int NumbersAdded(int x, int y)
+{
+   return x + y;
+}
+
+A.) operators      B.) parameters        C.) methods     D.) arguments
+
+
+
+
+
+9.) True or false: The following code uses valid syntax:
+
+static void Main(string[] args)
+{
+   int x;
+   ChangeNumber(ref x);
+   Console.WriteLine(x);
+}
+
+static void ChangeNumber(ref int y)
+{
+   y = 0;
+}
+
+True      False
+
+
+
+
+
+10.) What parts of a method makes up its signature?
+
+A.) name, return type, parameters      B.) return type, parameters      C.) name, parameters       D.) name, return type
+
+
+
+
+
+
+11.) What is the term for the “int x” and “int y” in the following code?
+
+static void Main(string[] args)
+{
+   int result = NumbersAdded(4, 5);
+}
+
+static int NumbersAdded(int x, int y)
+{
+   return x + y;
+}
+
+A.) operators      B.) parameters        C.) methods     D.) arguments
+
+
+
+
+
+12.) True or False: This is proper syntax for declaring an optional parameter
+
+static void MyMethod(int a, double b = 2.5, char c)
+{
+	// some code
+}
+
+True      False
+
+
+
+
+13.) Which of the following methods is written in pascal case notation?
+
+A.) MyMethod     B.) myMethod     C.) Mymethod     D.) mymethod
+
+
+
+
+
+14.) What is the output of the following code?
+
+static void Main(string[] args)
+{
+   MyMethod(5, 8);
+}
+
+static void MyMethod(int a, int b = 2)
+{
+   Console.WriteLine(b);
+}
+
+A.) 5      B.) 8      C.) 2     D.) 10
+
+
+
+
+SCROLL DOWN FOR ANSWERS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.) B
+2.) C
+3.) D
+4.) A
+5.) C
+6.) A
+7.) False
+8.) D
+9.) False
+10.) C
+11.) B
+12.) False
+13.) A
+14.) B

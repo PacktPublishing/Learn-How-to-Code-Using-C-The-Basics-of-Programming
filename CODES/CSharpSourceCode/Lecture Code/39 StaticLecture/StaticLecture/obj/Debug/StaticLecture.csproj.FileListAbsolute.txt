@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\StaticLecture\StaticLecture\bin\Debug\StaticLecture.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\StaticLecture\StaticLecture\bin\Debug\StaticLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\StaticLecture\StaticLecture\bin\Debug\StaticLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\StaticLecture\StaticLecture\obj\Debug\StaticLecture.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\StaticLecture\StaticLecture\obj\Debug\StaticLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\StaticLecture\StaticLecture\obj\Debug\StaticLecture.pdb

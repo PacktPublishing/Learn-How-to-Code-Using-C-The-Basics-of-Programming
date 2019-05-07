@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\StringManipulationLecture3\StringManipulationLecture3\bin\Debug\StringManipulationLecture3.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\StringManipulationLecture3\StringManipulationLecture3\bin\Debug\StringManipulationLecture3.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\StringManipulationLecture3\StringManipulationLecture3\bin\Debug\StringManipulationLecture3.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\StringManipulationLecture3\StringManipulationLecture3\obj\Debug\StringManipulationLecture3.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\StringManipulationLecture3\StringManipulationLecture3\obj\Debug\StringManipulationLecture3.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\StringManipulationLecture3\StringManipulationLecture3\obj\Debug\StringManipulationLecture3.csprojResolveAssemblyReference.cache

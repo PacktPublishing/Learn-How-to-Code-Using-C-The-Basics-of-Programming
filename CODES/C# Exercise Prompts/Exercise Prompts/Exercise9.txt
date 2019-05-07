@@ -1,0 +1,20 @@
+Exercise:
+Write a program that can store a list of directions and then print out the list as a series of symbols.
+
+Requirements:
+Create an enumeration that can be used to hold one of the four ordinal directions (north, south, east, and west). Allow the user to input a series of these directions and store them in a List object. Do not allow them to enter invalid input. When they are finished entering values, let them know how many values they entered, and then print out the list as a series of arrows (using the ^ v > < characters).
+
+Output should match the following example:
+
+Enter the next direction (n/s/e/w or 0 to finish): n
+Enter the next direction (n/s/e/w or 0 to finish): n
+Enter the next direction (n/s/e/w or 0 to finish): q
+Invalid input
+Enter the next direction (n/s/e/w or 0 to finish): e
+Enter the next direction (n/s/e/w or 0 to finish): e
+Enter the next direction (n/s/e/w or 0 to finish): w
+Enter the next direction (n/s/e/w or 0 to finish): s
+Enter the next direction (n/s/e/w or 0 to finish): 0
+
+You entered 6 directions. The directions are as follows:
+^ ^ > > < v

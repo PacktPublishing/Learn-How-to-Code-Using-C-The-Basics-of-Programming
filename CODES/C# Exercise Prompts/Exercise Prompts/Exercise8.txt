@@ -1,0 +1,31 @@
+Exercise:
+Write a program that can store a list of grocery items and search the list.
+
+Requirements:
+Use an array to store a list of five grocery items. Prompt the user to enter the five items. Then prompt the user to enter a substring to search for within the elements of the array. Tell the user how many elements contain the specified substring.
+
+Use string interpolation when combining variables with string literals.
+
+Output should match the following examples.
+
+Example 1:
+Enter grocery item 1: red apples
+Enter grocery item 2: bananas
+Enter grocery item 3: green apples
+Enter grocery item 4: peas
+Enter grocery item 5: carrots
+
+Enter a substring to search for: apples
+
+There are 2 elements that contain the substring "apples"
+
+Example 2:
+Enter grocery item 1: red apples
+Enter grocery item 2: bananas
+Enter grocery item 3: green apples
+Enter grocery item 4: peas
+Enter grocery item 5: carrots
+
+Enter a substring to search for: bananas
+
+There is 1 element that contains the substring "bananas"

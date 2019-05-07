@@ -1,0 +1,20 @@
+Exercise:
+Write a program that can sum three integers.
+
+Requirements:
+Write a method that accepts three integers as input and returns the sum. Write another method with the same name, that also accepts three integers and adds them together, but for this method, instead of returning data, it also accepts a reference parameter which will be used to store and retrieve the sum.
+
+Prompt the user for three integers, calculate the sum using the first version of the overloaded method, then print the result.
+
+Prompt the user for another three integers and print the sum, but this time, use the second version of the method to perform the calculation.
+
+Output should match the following example:
+Enter an integer: 1
+Enter a second integer: 2
+Enter a third integer: 3
+The sum of the three integers is 6
+
+Enter an integer: 2
+Enter a second integer: 4
+Enter a third integer: 5
+The sum of the three integers is 11

@@ -1,0 +1,34 @@
+Exercise:
+Write a program where the user enters the names of creative works and their writers, and then the program outputs that information.
+
+Requirements:
+Create an interface called IWritable that can be used with classes that represent creative works. The interface should define two methods - GetNameOfWork() and GetWriter().
+
+In the Program class, write a method called PrintWriter() that accepts an IWritable object as input and prints out the name of the work and the writer.
+
+Now, create three classes - Novel, which contains the fields name and author; Movie which contains the fields name and screenwriter; and Song, which contains the fields name and songwriter. Have each class implement the IWritable interface.
+
+In the Main() method, prompt the user to enter the data for a novel, movie, and song, and store the data in those types of objects. Then use the PrintWriter method to print the writer info for each of the objects.
+
+Output should match the following example:
+
+Enter name of novel: Pride and Prejudice
+Enter name of author: Jane Austen
+
+Enter name of movie: La La Land
+Enter name of screenwriter: Damien Chazelle
+
+Enter name of song: Fallin
+Enter name of songwriter: Alicia Keys
+
+***********************************************
+LIST OF CREATIVE WORKS
+
+Name of work: Pride and Prejudice
+Written by: Jane Austen
+
+Name of work: La La Land
+Written by: Damien Chazelle
+
+Name of work: Fallin
+Written by: Alicia Keys

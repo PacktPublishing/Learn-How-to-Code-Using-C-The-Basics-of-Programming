@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\InterfacesLecture4\InterfacesLecture4\bin\Debug\InterfacesLecture4.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\InterfacesLecture4\InterfacesLecture4\bin\Debug\InterfacesLecture4.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\InterfacesLecture4\InterfacesLecture4\bin\Debug\InterfacesLecture4.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\InterfacesLecture4\InterfacesLecture4\obj\Debug\InterfacesLecture4.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\InterfacesLecture4\InterfacesLecture4\obj\Debug\InterfacesLecture4.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\InterfacesLecture4\InterfacesLecture4\obj\Debug\InterfacesLecture4.pdb

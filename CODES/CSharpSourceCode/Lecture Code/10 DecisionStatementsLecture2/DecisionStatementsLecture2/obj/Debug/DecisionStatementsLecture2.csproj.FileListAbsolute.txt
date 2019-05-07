@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\10 DecisionStatementsLecture2\DecisionStatementsLecture2\bin\Debug\DecisionStatementsLecture2.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\10 DecisionStatementsLecture2\DecisionStatementsLecture2\bin\Debug\DecisionStatementsLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\10 DecisionStatementsLecture2\DecisionStatementsLecture2\bin\Debug\DecisionStatementsLecture2.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\10 DecisionStatementsLecture2\DecisionStatementsLecture2\obj\Debug\DecisionStatementsLecture2.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\10 DecisionStatementsLecture2\DecisionStatementsLecture2\obj\Debug\DecisionStatementsLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\10 DecisionStatementsLecture2\DecisionStatementsLecture2\obj\Debug\DecisionStatementsLecture2.pdb

@@ -1,0 +1,35 @@
+Exercise:
+Write a program that inputs the names and ages of the user and the user’s friend and outputs the results.
+
+Requirements:
+Prompt the user to enter their name. Prompt the user to enter their age. Read the input back to them.
+
+Prompt the user to enter their friend’s name. Prompt the user to enter their friend’s age. Read the input back to them.
+
+Output the total number of years lived between the two people.
+
+For this exercise, assume the user will only enter valid input.
+
+Output should match the following examples.
+
+Example 1:
+Enter your name: Beth
+Enter your age: 30
+Your name is Beth and you are 30 years old
+
+Enter your friend's name: Kevin
+Enter your friend's age: 35
+Your friend's name is Kevin and they are 35 years old
+
+There are 65 years between the two of you
+
+Example 2:
+Enter your name: Jim
+Enter your age: 45
+Your name is Jim and you are 45 years old
+
+Enter your friend's name: Susan
+Enter your friend's age: 55
+Your friend's name is Susan and they are 55 years old
+
+There are 100 years between the two of you

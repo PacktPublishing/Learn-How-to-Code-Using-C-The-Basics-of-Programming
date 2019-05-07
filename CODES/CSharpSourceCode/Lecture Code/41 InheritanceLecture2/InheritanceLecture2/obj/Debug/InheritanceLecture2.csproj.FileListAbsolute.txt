@@ -1,0 +1,5 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\InheritanceLecture2\InheritanceLecture2\bin\Debug\InheritanceLecture2.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\InheritanceLecture2\InheritanceLecture2\bin\Debug\InheritanceLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\InheritanceLecture2\InheritanceLecture2\bin\Debug\InheritanceLecture2.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\InheritanceLecture2\InheritanceLecture2\obj\Debug\InheritanceLecture2.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\InheritanceLecture2\InheritanceLecture2\obj\Debug\InheritanceLecture2.pdb

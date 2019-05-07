@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\C# Course\Exercise Code\IntroExercise\IntroExercise\bin\Debug\IntroExercise.exe.config
+C:\Users\David\Desktop\C# Course\Exercise Code\IntroExercise\IntroExercise\bin\Debug\IntroExercise.exe
+C:\Users\David\Desktop\C# Course\Exercise Code\IntroExercise\IntroExercise\bin\Debug\IntroExercise.pdb
+C:\Users\David\Desktop\C# Course\Exercise Code\IntroExercise\IntroExercise\obj\Debug\IntroExercise.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Exercise Code\IntroExercise\IntroExercise\obj\Debug\IntroExercise.exe
+C:\Users\David\Desktop\C# Course\Exercise Code\IntroExercise\IntroExercise\obj\Debug\IntroExercise.pdb
+C:\Users\David\Desktop\C# Course\Exercise Code\01 IntroExercise\IntroExercise\bin\Debug\IntroExercise.exe.config
+C:\Users\David\Desktop\C# Course\Exercise Code\01 IntroExercise\IntroExercise\bin\Debug\IntroExercise.exe
+C:\Users\David\Desktop\C# Course\Exercise Code\01 IntroExercise\IntroExercise\bin\Debug\IntroExercise.pdb
+C:\Users\David\Desktop\C# Course\Exercise Code\01 IntroExercise\IntroExercise\obj\Debug\IntroExercise.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Exercise Code\01 IntroExercise\IntroExercise\obj\Debug\IntroExercise.exe
+C:\Users\David\Desktop\C# Course\Exercise Code\01 IntroExercise\IntroExercise\obj\Debug\IntroExercise.pdb

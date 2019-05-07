@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\DebuggingLecture\DebuggingLecture\bin\Debug\DebuggingLecture.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\DebuggingLecture\DebuggingLecture\bin\Debug\DebuggingLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\DebuggingLecture\DebuggingLecture\bin\Debug\DebuggingLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\DebuggingLecture\DebuggingLecture\obj\Debug\DebuggingLecture.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\DebuggingLecture\DebuggingLecture\obj\Debug\DebuggingLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\DebuggingLecture\DebuggingLecture\obj\Debug\DebuggingLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\42 DebuggingLecture\DebuggingLecture\bin\Debug\DebuggingLecture.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\42 DebuggingLecture\DebuggingLecture\bin\Debug\DebuggingLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\42 DebuggingLecture\DebuggingLecture\bin\Debug\DebuggingLecture.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\42 DebuggingLecture\DebuggingLecture\obj\Debug\DebuggingLecture.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\42 DebuggingLecture\DebuggingLecture\obj\Debug\DebuggingLecture.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\42 DebuggingLecture\DebuggingLecture\obj\Debug\DebuggingLecture.pdb

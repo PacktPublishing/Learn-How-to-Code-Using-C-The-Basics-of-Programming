@@ -1,0 +1,20 @@
+Exercise:
+Debug a program that calculates the total sales and average profits for a company.
+
+Requirements:
+A company paid a software developer to develop a program with the following requirements:
+
+Enter the sales numbers from four different districts. Enter the total expenses. Output the average profit per district.
+
+The program compiles without error and runs without crashing but the output it produces is incorrect. The company has fired that software developer and hired you to fix the bugs. Create a new console program and replace the code in Program.cs with the code below. Fix the defects by using the Visual Studio debugger to step through portions of the code to find the problem or problems.
+
+Output should match the following example:
+
+Enter sales from district 1: 375
+Enter sales from district 2: 235
+Enter sales from district 3: 550
+Enter sales from district 4: 115
+
+Enter total expenses: 625
+
+Average profit per district was $162.50

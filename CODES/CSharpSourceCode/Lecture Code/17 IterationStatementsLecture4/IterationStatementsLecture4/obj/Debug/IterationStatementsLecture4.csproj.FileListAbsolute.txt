@@ -1,0 +1,12 @@
+C:\Users\David\Desktop\C# Course\Lecture Code\IterationStatementsLecture4\IterationStatementsLecture4\bin\Debug\IterationStatementsLecture4.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\IterationStatementsLecture4\IterationStatementsLecture4\bin\Debug\IterationStatementsLecture4.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\IterationStatementsLecture4\IterationStatementsLecture4\bin\Debug\IterationStatementsLecture4.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\IterationStatementsLecture4\IterationStatementsLecture4\obj\Debug\IterationStatementsLecture4.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\IterationStatementsLecture4\IterationStatementsLecture4\obj\Debug\IterationStatementsLecture4.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\IterationStatementsLecture4\IterationStatementsLecture4\obj\Debug\IterationStatementsLecture4.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\17 IterationStatementsLecture4\IterationStatementsLecture4\bin\Debug\IterationStatementsLecture4.exe.config
+C:\Users\David\Desktop\C# Course\Lecture Code\17 IterationStatementsLecture4\IterationStatementsLecture4\bin\Debug\IterationStatementsLecture4.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\17 IterationStatementsLecture4\IterationStatementsLecture4\bin\Debug\IterationStatementsLecture4.pdb
+C:\Users\David\Desktop\C# Course\Lecture Code\17 IterationStatementsLecture4\IterationStatementsLecture4\obj\Debug\IterationStatementsLecture4.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\C# Course\Lecture Code\17 IterationStatementsLecture4\IterationStatementsLecture4\obj\Debug\IterationStatementsLecture4.exe
+C:\Users\David\Desktop\C# Course\Lecture Code\17 IterationStatementsLecture4\IterationStatementsLecture4\obj\Debug\IterationStatementsLecture4.pdb
